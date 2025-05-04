@@ -24,15 +24,6 @@ Wszystkie źródła oferują prosty język, furiganę i codzienne tematy.
 
 ---
 
-## 📲 Satori Reader *(częściowo płatny)*
-**Link:** [https://www.satorireader.com/](https://www.satorireader.com/)
-
-- Artykuły dostosowane do poziomu ucznia
-- Możliwość kliknięcia każdego słowa – zobaczysz tłumaczenie i gramatykę
-- Super do rozumienia tekstów krok po kroku
-
----
-
 ## 🗣️ Wasabi Japanese – Reading Practice
 **Link:** [https://www.wasabi-jpn.com/japanese-lessons/reading-practice/](https://www.wasabi-jpn.com/japanese-lessons/reading-practice/)
 
