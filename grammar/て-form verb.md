@@ -17,7 +17,7 @@ Służy m.in. do:
 W japońskim mamy 3 główne grupy czasowników:
 
 1. **Grupa I (u-verbs)** – zakończone na う, く, す, つ itd.
-2. **Grupa II (ru-verbs)** – zakończone na る, po samogłosce
+2. Grupa II (ru-verbs) – czasowniki kończące się na 〜いる lub 〜える（choć nie wszystkie należą do tej grupy）
 3. **Nieregularne** – tylko する i くる
 
 ---
