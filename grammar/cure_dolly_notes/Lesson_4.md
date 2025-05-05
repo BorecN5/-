@@ -1,6 +1,4 @@
----
-title: "Lesson 4: Japanese Past, Present, and Future Tense"
-output: github_document
+
 ---
 # 📺 Źródło
 
