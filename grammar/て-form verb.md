@@ -1,6 +1,4 @@
----
-title: "Te-forma w języku japońskim (て-form)"
-output: github_document
+
 ---
 
 # 🎯 Temat
