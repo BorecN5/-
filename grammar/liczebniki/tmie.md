@@ -5,6 +5,7 @@
 # 🕒 Liczebniki godzinowe (時 - じ)
 
 W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna lista godzin:
+```html
 <div style="text-align: center;">
 | Godzina | Japoński | Wymowa |
 |---------|-----------|--------|
