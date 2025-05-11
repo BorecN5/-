@@ -1,6 +1,4 @@
----
-title: "Liczebniki godzinowe w języku japońskim"
-output: github_document
+
 ---
 
 # 🕒 Liczebniki godzinowe (時 - じ)
