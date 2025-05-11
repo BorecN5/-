@@ -1,4 +1,4 @@
-knitr::opts_chunk$set(fig.align = 'center')
+
 ---
 
 # 🕒 Liczebniki godzinowe (時 - じ)
