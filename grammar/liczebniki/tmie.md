@@ -1,8 +1,13 @@
----
-title: "Liczebniki godzinowe w języku japońskim"
-output: github_document
 
-knitr::opts_chunk$set(fig.align = 'center')
+```{css, echo=FALSE}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+th, td {
+  text-align: center;
+}
 ---
 
 # 🕒 Liczebniki godzinowe (時 - じ)
