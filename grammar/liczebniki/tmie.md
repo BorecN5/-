@@ -6,7 +6,6 @@
 
 W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna lista godzin:
 
-<div style="text-align: center;">
 | Godzina | Japoński | Wymowa |
 |---------|-----------|--------|
 | 1:00    | 一時      | いちじ (ichi-ji) |
@@ -21,7 +20,7 @@ W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna
 | 10:00   | 十時      | じゅうじ (juu-ji) |
 | 11:00   | 十一時   | じゅういちじ (juu-ichi-ji) |
 | 12:00   | 十二時   | じゅうにじ (juu-ni-ji) |
-</div>
+
 # 🕧 Minuty (分 - ふん/ぷん)
 
 | Minuty | Japoński | Wymowa |
