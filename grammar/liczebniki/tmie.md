@@ -44,6 +44,6 @@ W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna
 - 7:45 → **七時四十五分** (しちじ よんじゅうごふん, shichi-ji yon-juu-go-fun)
 
 # ✅ Protipy
-- 4:00 → **よじ (yo-ji)** (nie shi-ji)
+- 4:00 → **よじ (yo-ji)** (nie yon-ji)
 - 9:00 → **くじ (ku-ji)** (nie kyuu-ji)
 - Minuty zakończone na **1, 3, 6, 8, 10** mają specyficzne wymowy (`ippun`, `sanpun`, `roppun`, `happun`, `juppun`).
