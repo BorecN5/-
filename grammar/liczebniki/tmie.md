@@ -5,7 +5,7 @@
 # 🕒 Liczebniki godzinowe (時 - じ)
 
 W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna lista godzin:
-
+<div style="text-align: center;">
 | Godzina | Japoński | Wymowa |
 |---------|-----------|--------|
 | 1:00    | 一時      | いちじ (ichi-ji) |
@@ -35,7 +35,7 @@ W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna
 | 8 min  | 八分      | はっぷん (happun) |
 | 9 min  | 九分      | きゅうふん (kyuu-fun) |
 | 10 min | 十分      | じゅっぷん / じっぷん (juppun / jippun) |
-
+</div>
 # 🕰️ Przykłady pełnych godzin
 
 - 1:05 → **一時五分** (いちじ ごふん, ichi-ji go-fun)
