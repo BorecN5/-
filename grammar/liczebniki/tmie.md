@@ -1,13 +1,5 @@
 
-```{css, echo=FALSE}
-table {
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-}
-th, td {
-  text-align: center;
-}
+
 ---
 
 # 🕒 Liczebniki godzinowe (時 - じ)
