@@ -21,7 +21,7 @@ W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna
 | 10:00   | 十時      | じゅうじ (juu-ji) |
 | 11:00   | 十一時   | じゅういちじ (juu-ichi-ji) |
 | 12:00   | 十二時   | じゅうにじ (juu-ni-ji) |
-
+</div>
 # 🕧 Minuty (分 - ふん/ぷん)
 
 | Minuty | Japoński | Wymowa |
@@ -36,7 +36,7 @@ W japońskim do określania godzin używamy końcówki **時 (じ)**. Oto pełna
 | 8 min  | 八分      | はっぷん (happun) |
 | 9 min  | 九分      | きゅうふん (kyuu-fun) |
 | 10 min | 十分      | じゅっぷん / じっぷん (juppun / jippun) |
-</div>
+
 # 🕰️ Przykłady pełnych godzin
 
 - 1:05 → **一時五分** (いちじ ごふん, ichi-ji go-fun)
