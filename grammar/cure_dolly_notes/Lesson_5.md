@@ -1,7 +1,7 @@
 # 🧠 Grammar Lesson 5 – Cure Dolly: "Japanese Verb Groups and Te-form"
 
 🎥 [Obejrzyj odcinek](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
-
+---
 # 🎯 Temat
 
 W tym odcinku Cure Dolly wyjaśnia, jak rozpoznać grupy czasowników w japońskim i jak tworzyć **て-formę (te-form)** dla każdej z nich.
