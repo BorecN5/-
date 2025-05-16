@@ -59,3 +59,5 @@ W japońskim mamy 3 grupy czasowników:
 - Grupa III to zawsze する i くる – nie ma innych.
 
 ---
+📝 *Notatki na podstawie: "Lesson 1 – Japanese Made Easy" by Cure Dolly*
+
