@@ -1,16 +1,6 @@
----
-title: "Lesson 5: Japanese Verb Groups and Te-form"
-output: github_document
+# 🧠 Grammar Lesson 5 – Cure Dolly: "Japanese Verb Groups and Te-form"
 
-# 📺 Źródło
-Notatki na podstawie filmu **Cure Dolly – Lesson 5: Japanese verb groups and the te-form**
-🔗 [Obejrzyj na YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
-Kanał: Organic Japanese with Cure Dolly
-
----
-title: "Lesson 5: Japanese Verb Groups and Te-form"
-output: github_document
----
+🎥 [Obejrzyj odcinek](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
 
 # 🎯 Temat
 
