@@ -1,6 +1,6 @@
 # 🧠 Grammar Lesson 5 – Cure Dolly: "Japanese Verb Groups and Te-form"
 
-🎥 [Obejrzyj odcinek](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+🎥 https://www.youtube.com/watch?v=GzEVLMDC8nw
 ---
 # 🎯 Temat
 
