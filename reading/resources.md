@@ -24,14 +24,7 @@ Wszystkie źródła oferują prosty język, furiganę i codzienne tematy.
 
 ---
 
-## 🗣️ Wasabi Japanese – Reading Practice
-**Link:** [https://www.wasabi-jpn.com/japanese-lessons/reading-practice/](https://www.wasabi-jpn.com/japanese-lessons/reading-practice/)
 
-- Proste teksty i dialogi z tłumaczeniem
-- Często z nagraniami audio
-- Fajna baza do codziennej nauki
-
----
 
 ## 🌏 MATCHA Easy Japanese
 **Link:** [https://matcha-jp.com/easy](https://matcha-jp.com/easy)
