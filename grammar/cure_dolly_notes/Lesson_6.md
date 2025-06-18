@@ -1,6 +1,6 @@
 # 🧠 Grammar Lesson 8 – Cure Dolly: "Japanese 'Adjectives' – the real secret that makes them easy"
 
-🎥 [Obejrzyj odcinek](https://www.youtube.com/watch?v=2hyzM5ORySs)
+🎥 https://www.youtube.com/watch?v=iyVZlaEqU24
 
 ---
 
